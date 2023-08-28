@@ -3,5 +3,6 @@ public satic void main(String[] args)
 {
  System.out.println("This is my first program");
  System.out.println("This is added after commit");
+  System.out.println("This is added after 1st commit");
 }
 }
