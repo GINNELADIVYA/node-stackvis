@@ -1,5 +1,7 @@
-class First
+class First{
 public satic void main(String[] args)
 {
- System.out.print("This is my first program");
+ System.out.println("This is my first program");
+ System.out.println("This is added after commit");
+}
 }
